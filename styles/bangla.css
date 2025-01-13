@@ -109,6 +109,7 @@
     display: flex;
     align-items: center;
     justify-content:space-between;
+    margin: 0,auto;
     
   }
   
@@ -176,4 +177,48 @@ nav ul li{
     font-weight: 400;
     font-size: 16px;
     color: #0E0E0E 70%;
+}
+.bt1{
+    background-color:#5490F5;
+    border-radius: 8px;
+    font-weight: 600px;
+    font-size: 16px;
+    padding: 10px;
+}
+.bt2{
+    background-color:#09A15C;
+    border-radius: 8px;
+    font-weight: 600px;
+    font-size: 16px;
+     padding: 10px;
+}
+.bt3{
+    background-color: #ffc239;
+    border-radius: 8px;
+    font-weight: 600px;
+    font-size: 16px;
+    padding: 10px;
+}
+.vision-container{
+    display: flex;
+    gap: 24px;
+}
+.vision1{
+    padding: 30px;
+    border-radius: 16px;
+    background-color: #5490F5;
+    bac
+    
+}
+.vision2{
+    padding: 30px;
+    border-radius: 16px;
+    background-color: #C6E4D6;
+    
+}
+.vision3{
+    padding: 30px;
+    border-radius: 16px;
+    background-color: #f7ebc5;
+    
 }
