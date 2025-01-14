@@ -222,3 +222,13 @@ nav ul li{
     background-color: #f7ebc5;
     
 }
+.about{
+  background-image: url('../assets/quote-bg.png');
+  background-repeat:no-repeat;
+  margin: 0;
+  padding: 48px,24px;
+}
+.you{
+  font-weight: 600px;
+  font-size: 20px;
+}
