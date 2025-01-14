@@ -364,3 +364,8 @@ main{
   max-width: 1140px;
 color: #0E0E0E;
 }
+.link1 ul li{
+  display:flex;
+  
+  text-decoration: none;
+}
