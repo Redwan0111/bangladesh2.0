@@ -364,8 +364,14 @@ main{
   max-width: 1140px;
 color: #0E0E0E;
 }
-.link1 ul li{
+.link1{
   display:flex;
-  
-  text-decoration: none;
+ text-decoration: none;
+ justify-content: center;
+ gap: 10px
+ ;
+ 
+}
+footer{
+  max-width: 1140px;
 }
